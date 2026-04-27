@@ -18,7 +18,7 @@ The plugin is made to work together with **LOGZ_Admin** and does not duplicate t
 
 For full functionality, this plugin needs:
 
-- [LOGZ_Admin](https://github.com/USERNAME/LOGZ_Admin)
+- [LOGZ_Admin](https://github.com/MartyCSGO/LOGZ_Admin)
 
 Without `LOGZ_Admin`, the menu can open, but the administration commands will not work.
 
